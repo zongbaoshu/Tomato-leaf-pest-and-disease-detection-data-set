@@ -1,4 +1,10 @@
 The public Tomato leaf pest and disease detection dataset is available on the Roboflow website at https://universe.roboflow.com/plantdoc-xztat/proposed. Since the dataset is too small, I used Roboflow's built-in image augmentation techniques to expand it. The augmented Tomato leaf pest and disease detection dataset includes eight classes: Tomato Early Blight Leaf, Tomato Septoria Leaf Spot, Tomato Leaf, Tomato Leaf Bacterial Spot, Tomato Leaf Late Blight, Tomato Leaf Mosaic Virus, Tomato Leaf Yellow Virus, and Tomato Mold Leaf.
+
+
+
+
+
+
 Copyright (c) 2025 zongbaoshu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
